@@ -1,0 +1,12 @@
+[class*="col-"]{
+    padding: 0 !important;
+}
+.navbar li:hover a{
+    background-color: #fff;
+}
+.dropdown-menu li :hover{
+    background-color: rgb(226, 244, 255);
+}
+.col-md-4 li{
+    padding-left: 25px;
+}
